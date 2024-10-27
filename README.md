@@ -1,2 +1,3 @@
-# Implementing-Code-Splitting-and-Lazy-Loading-in-Next.js-Best-Practices-for-Improved-Performance
 Source code for related LinkedIn article. Link in readme.
+
+https://www.linkedin.com/pulse/implementing-code-splitting-lazy-loading-nextjs-best-practices-jon-ssnwe/
