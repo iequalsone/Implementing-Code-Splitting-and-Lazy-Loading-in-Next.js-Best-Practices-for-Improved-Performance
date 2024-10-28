@@ -73,6 +73,9 @@ export default function SuspenseExample() {
 ## Contributing
 Contributions are welcome! If you have suggestions for improving the code examples or adding more best practices, please feel free to open a pull request.
 
+## License
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/iequalsone/Implementing-Code-Splitting-and-Lazy-Loading-in-Next.js-Best-Practices-for-Improved-Performance/blob/main/LICENSE.txt) file for more information.
+
 ## Acknowledgements
 A big thank you to everyone who read my [LinkedIn](https://www.linkedin.com/pulse/implementing-code-splitting-lazy-loading-nextjs-best-practices-jon-ssnwe) article and showed interest in diving deeper into implementing these best practices.
 
